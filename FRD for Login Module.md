@@ -32,16 +32,6 @@ It also provides navigation options for **new user registration** and **password
 
 ## 
 
-## 
-
-## 
-
-## 
-
-## 
-
-## 
-
 ## **3\. Business Rules**
 
 | Business Rules |  |
@@ -57,11 +47,6 @@ It also provides navigation options for **new user registration** and **password
 | BR09 | If the user is inactive for 10 minutes, the system should log out automatically for security. |
 | BR10 | User doesn’t receive OTP to the registered mobile number, the user need to contact the bank branch or the platform admin. |
 
-## 
-
-## 
-
-## 
 
 ## 
 
@@ -109,6 +94,7 @@ The First-Time Setup screen allows existing Kongu Co-operative Bank account hold
 | BR08 | If the user’s account is already registered for internet banking, they need to  login directly. |
 | BR09 | If the user is inactive for 10 minutes, the system should log out automatically for security. |
 | BR10 | User doesn’t receive OTP to the registered mobile number, the user need to contact the bank branch or the platform admin. |
+
 
 ## **4\. Functional Requirements**
 
